@@ -1,0 +1,101 @@
+AssetType,Location,Status,PurchaseDate,MaintenanceHistory
+Switch,Office Building B,Operational,2024-05-21,"[{'date': '2024-09-18', 'details': 'Routine maintenance 7'}, {'date': '2025-03-02', 'details': 'Routine maintenance 7'}, {'date': '2025-01-13', 'details': 'Routine maintenance 4'}, {'date': '2024-12-16', 'details': 'Routine maintenance 1'}]"
+Switch,Office Building B,Operational,2024-03-14,"[{'date': '2024-11-23', 'details': 'Routine maintenance 5'}, {'date': '2024-06-17', 'details': 'Routine maintenance 6'}, {'date': '2024-11-04', 'details': 'Routine maintenance 10'}, {'date': '2024-06-26', 'details': 'Routine maintenance 5'}]"
+Server,Data Center A,Under Maintenance,2022-11-06,"[{'date': '2023-10-19', 'details': 'Routine maintenance 10'}, {'date': '2023-01-13', 'details': 'Routine maintenance 4'}, {'date': '2023-04-15', 'details': 'Routine maintenance 10'}]"
+Switch,Office Building B,Operational,2023-03-20,"[{'date': '2023-04-20', 'details': 'Routine maintenance 10'}, {'date': '2023-05-12', 'details': 'Routine maintenance 10'}, {'date': '2024-01-26', 'details': 'Routine maintenance 8'}, {'date': '2023-05-11', 'details': 'Routine maintenance 10'}]"
+Router,Remote Site C,Decommissioned,2022-11-24,"[{'date': '2023-05-24', 'details': 'Routine maintenance 6'}]"
+Router,Office Building B,Decommissioned,2021-09-14,[]
+Switch,Data Center A,Decommissioned,2020-02-03,"[{'date': '2020-07-03', 'details': 'Routine maintenance 6'}]"
+Router,Remote Site C,Under Maintenance,2020-05-31,"[{'date': '2021-05-23', 'details': 'Routine maintenance 8'}, {'date': '2021-04-25', 'details': 'Routine maintenance 1'}, {'date': '2021-02-24', 'details': 'Routine maintenance 1'}, {'date': '2020-07-16', 'details': 'Routine maintenance 9'}]"
+Switch,Office Building B,Decommissioned,2022-05-04,"[{'date': '2022-12-18', 'details': 'Routine maintenance 5'}, {'date': '2022-10-23', 'details': 'Routine maintenance 2'}, {'date': '2022-07-15', 'details': 'Routine maintenance 6'}, {'date': '2023-03-20', 'details': 'Routine maintenance 3'}, {'date': '2022-12-29', 'details': 'Routine maintenance 1'}]"
+Server,Remote Site C,Under Maintenance,2019-09-27,[]
+Laptop,Data Center A,Decommissioned,2024-04-28,"[{'date': '2024-06-02', 'details': 'Routine maintenance 1'}, {'date': '2024-08-17', 'details': 'Routine maintenance 4'}]"
+Laptop,Data Center A,Decommissioned,2019-11-20,"[{'date': '2020-03-21', 'details': 'Routine maintenance 5'}, {'date': '2020-03-30', 'details': 'Routine maintenance 2'}, {'date': '2020-10-13', 'details': 'Routine maintenance 10'}]"
+Server,Data Center A,Operational,2020-11-10,"[{'date': '2021-02-22', 'details': 'Routine maintenance 9'}, {'date': '2021-08-18', 'details': 'Routine maintenance 2'}, {'date': '2021-02-28', 'details': 'Routine maintenance 1'}, {'date': '2021-09-23', 'details': 'Routine maintenance 1'}]"
+Switch,Remote Site C,Decommissioned,2019-10-23,"[{'date': '2020-02-20', 'details': 'Routine maintenance 2'}]"
+Server,Data Center A,Under Maintenance,2022-04-30,"[{'date': '2022-06-23', 'details': 'Routine maintenance 5'}]"
+Server,Office Building B,Operational,2019-09-27,"[{'date': '2020-04-06', 'details': 'Routine maintenance 7'}]"
+Laptop,Office Building B,Decommissioned,2019-12-10,[]
+Laptop,Data Center A,Under Maintenance,2024-04-13,"[{'date': '2024-05-16', 'details': 'Routine maintenance 4'}, {'date': '2024-11-26', 'details': 'Routine maintenance 2'}, {'date': '2024-08-26', 'details': 'Routine maintenance 7'}]"
+Switch,Data Center A,Decommissioned,2020-04-28,"[{'date': '2021-01-04', 'details': 'Routine maintenance 2'}, {'date': '2020-06-23', 'details': 'Routine maintenance 7'}, {'date': '2021-01-29', 'details': 'Routine maintenance 3'}, {'date': '2020-09-21', 'details': 'Routine maintenance 3'}]"
+Server,Data Center A,Operational,2020-12-05,"[{'date': '2021-07-07', 'details': 'Routine maintenance 5'}, {'date': '2021-03-29', 'details': 'Routine maintenance 8'}, {'date': '2021-05-08', 'details': 'Routine maintenance 8'}, {'date': '2021-11-30', 'details': 'Routine maintenance 5'}]"
+Server,Remote Site C,Operational,2022-04-29,"[{'date': '2022-08-10', 'details': 'Routine maintenance 4'}]"
+Server,Remote Site C,Under Maintenance,2023-03-19,"[{'date': '2023-04-21', 'details': 'Routine maintenance 2'}, {'date': '2023-07-28', 'details': 'Routine maintenance 6'}]"
+Router,Remote Site C,Decommissioned,2024-01-30,"[{'date': '2024-06-29', 'details': 'Routine maintenance 2'}, {'date': '2024-04-18', 'details': 'Routine maintenance 3'}, {'date': '2024-08-27', 'details': 'Routine maintenance 7'}]"
+Server,Office Building B,Decommissioned,2021-07-01,"[{'date': '2022-06-08', 'details': 'Routine maintenance 9'}, {'date': '2022-02-23', 'details': 'Routine maintenance 6'}, {'date': '2021-09-30', 'details': 'Routine maintenance 8'}, {'date': '2021-09-23', 'details': 'Routine maintenance 3'}]"
+Laptop,Office Building B,Operational,2024-06-27,"[{'date': '2024-12-02', 'details': 'Routine maintenance 2'}, {'date': '2025-03-03', 'details': 'Routine maintenance 5'}, {'date': '2024-10-13', 'details': 'Routine maintenance 2'}]"
+Laptop,Data Center A,Decommissioned,2023-08-22,"[{'date': '2023-12-08', 'details': 'Routine maintenance 7'}, {'date': '2024-05-20', 'details': 'Routine maintenance 1'}, {'date': '2023-10-22', 'details': 'Routine maintenance 3'}, {'date': '2024-07-07', 'details': 'Routine maintenance 4'}]"
+Server,Remote Site C,Decommissioned,2023-06-25,"[{'date': '2023-08-10', 'details': 'Routine maintenance 10'}, {'date': '2024-05-07', 'details': 'Routine maintenance 6'}, {'date': '2023-10-11', 'details': 'Routine maintenance 6'}]"
+Laptop,Office Building B,Under Maintenance,2020-11-08,"[{'date': '2021-06-30', 'details': 'Routine maintenance 3'}, {'date': '2021-08-23', 'details': 'Routine maintenance 9'}]"
+Server,Data Center A,Under Maintenance,2023-03-08,"[{'date': '2023-05-30', 'details': 'Routine maintenance 10'}]"
+Router,Remote Site C,Decommissioned,2020-05-18,"[{'date': '2021-04-29', 'details': 'Routine maintenance 6'}, {'date': '2020-12-14', 'details': 'Routine maintenance 1'}, {'date': '2020-12-18', 'details': 'Routine maintenance 1'}, {'date': '2020-11-30', 'details': 'Routine maintenance 6'}, {'date': '2021-05-11', 'details': 'Routine maintenance 7'}]"
+Server,Data Center A,Operational,2020-05-09,[]
+Switch,Office Building B,Under Maintenance,2023-04-01,"[{'date': '2023-12-14', 'details': 'Routine maintenance 2'}, {'date': '2024-02-05', 'details': 'Routine maintenance 2'}, {'date': '2024-01-31', 'details': 'Routine maintenance 9'}]"
+Router,Remote Site C,Under Maintenance,2021-06-16,"[{'date': '2022-01-01', 'details': 'Routine maintenance 9'}, {'date': '2021-12-02', 'details': 'Routine maintenance 8'}, {'date': '2022-04-16', 'details': 'Routine maintenance 3'}, {'date': '2021-12-29', 'details': 'Routine maintenance 8'}]"
+Server,Remote Site C,Operational,2023-10-25,"[{'date': '2024-07-05', 'details': 'Routine maintenance 10'}, {'date': '2024-04-11', 'details': 'Routine maintenance 7'}, {'date': '2024-01-26', 'details': 'Routine maintenance 1'}]"
+Server,Office Building B,Decommissioned,2022-07-23,"[{'date': '2023-02-07', 'details': 'Routine maintenance 3'}]"
+Laptop,Remote Site C,Under Maintenance,2024-04-16,"[{'date': '2024-11-11', 'details': 'Routine maintenance 4'}, {'date': '2025-02-02', 'details': 'Routine maintenance 6'}, {'date': '2025-03-12', 'details': 'Routine maintenance 6'}, {'date': '2024-09-04', 'details': 'Routine maintenance 3'}, {'date': '2025-02-19', 'details': 'Routine maintenance 10'}]"
+Server,Data Center A,Under Maintenance,2024-05-29,[]
+Router,Remote Site C,Operational,2020-06-21,"[{'date': '2020-10-12', 'details': 'Routine maintenance 7'}, {'date': '2020-09-01', 'details': 'Routine maintenance 8'}, {'date': '2020-11-15', 'details': 'Routine maintenance 6'}, {'date': '2020-12-29', 'details': 'Routine maintenance 10'}, {'date': '2020-08-25', 'details': 'Routine maintenance 9'}]"
+Laptop,Office Building B,Operational,2021-08-13,"[{'date': '2021-12-06', 'details': 'Routine maintenance 9'}, {'date': '2021-11-13', 'details': 'Routine maintenance 5'}, {'date': '2022-03-01', 'details': 'Routine maintenance 9'}, {'date': '2022-03-04', 'details': 'Routine maintenance 5'}, {'date': '2022-02-28', 'details': 'Routine maintenance 8'}]"
+Laptop,Data Center A,Under Maintenance,2020-10-25,"[{'date': '2021-02-05', 'details': 'Routine maintenance 5'}, {'date': '2021-10-15', 'details': 'Routine maintenance 5'}, {'date': '2020-12-09', 'details': 'Routine maintenance 8'}, {'date': '2020-11-30', 'details': 'Routine maintenance 4'}, {'date': '2020-12-14', 'details': 'Routine maintenance 7'}]"
+Router,Office Building B,Under Maintenance,2022-12-26,"[{'date': '2023-05-24', 'details': 'Routine maintenance 4'}, {'date': '2023-08-02', 'details': 'Routine maintenance 9'}, {'date': '2023-12-09', 'details': 'Routine maintenance 4'}, {'date': '2023-11-13', 'details': 'Routine maintenance 9'}, {'date': '2023-05-25', 'details': 'Routine maintenance 8'}]"
+Server,Office Building B,Decommissioned,2021-09-07,"[{'date': '2022-05-09', 'details': 'Routine maintenance 7'}, {'date': '2022-04-28', 'details': 'Routine maintenance 8'}, {'date': '2022-05-03', 'details': 'Routine maintenance 9'}, {'date': '2022-02-02', 'details': 'Routine maintenance 7'}, {'date': '2022-04-25', 'details': 'Routine maintenance 10'}]"
+Router,Remote Site C,Under Maintenance,2022-07-05,"[{'date': '2023-03-02', 'details': 'Routine maintenance 7'}, {'date': '2023-05-31', 'details': 'Routine maintenance 4'}, {'date': '2022-12-12', 'details': 'Routine maintenance 3'}]"
+Laptop,Data Center A,Decommissioned,2021-11-01,[]
+Server,Office Building B,Operational,2023-03-30,"[{'date': '2024-02-09', 'details': 'Routine maintenance 10'}, {'date': '2023-09-24', 'details': 'Routine maintenance 4'}, {'date': '2023-07-28', 'details': 'Routine maintenance 9'}, {'date': '2023-10-01', 'details': 'Routine maintenance 8'}, {'date': '2023-08-03', 'details': 'Routine maintenance 8'}]"
+Laptop,Remote Site C,Operational,2019-10-22,"[{'date': '2019-11-30', 'details': 'Routine maintenance 3'}, {'date': '2020-09-25', 'details': 'Routine maintenance 4'}, {'date': '2019-12-11', 'details': 'Routine maintenance 8'}]"
+Laptop,Data Center A,Operational,2020-02-10,"[{'date': '2020-06-17', 'details': 'Routine maintenance 4'}, {'date': '2020-06-10', 'details': 'Routine maintenance 6'}, {'date': '2020-12-15', 'details': 'Routine maintenance 2'}, {'date': '2020-12-09', 'details': 'Routine maintenance 9'}]"
+Laptop,Office Building B,Operational,2019-07-24,[]
+Laptop,Data Center A,Operational,2020-11-24,"[{'date': '2021-04-25', 'details': 'Routine maintenance 9'}]"
+Switch,Data Center A,Operational,2020-07-04,[]
+Switch,Data Center A,Operational,2023-09-17,"[{'date': '2024-04-20', 'details': 'Routine maintenance 8'}, {'date': '2023-11-25', 'details': 'Routine maintenance 3'}, {'date': '2024-08-19', 'details': 'Routine maintenance 2'}, {'date': '2024-07-19', 'details': 'Routine maintenance 6'}, {'date': '2024-05-02', 'details': 'Routine maintenance 6'}]"
+Router,Data Center A,Decommissioned,2022-08-15,[]
+Server,Remote Site C,Operational,2020-04-03,"[{'date': '2020-11-06', 'details': 'Routine maintenance 6'}, {'date': '2020-06-04', 'details': 'Routine maintenance 5'}, {'date': '2021-01-21', 'details': 'Routine maintenance 8'}, {'date': '2020-12-31', 'details': 'Routine maintenance 2'}, {'date': '2020-08-05', 'details': 'Routine maintenance 3'}]"
+Laptop,Office Building B,Under Maintenance,2020-09-18,[]
+Laptop,Remote Site C,Under Maintenance,2020-01-14,"[{'date': '2020-07-10', 'details': 'Routine maintenance 3'}, {'date': '2020-05-13', 'details': 'Routine maintenance 2'}, {'date': '2020-11-11', 'details': 'Routine maintenance 4'}, {'date': '2020-05-14', 'details': 'Routine maintenance 6'}]"
+Laptop,Remote Site C,Under Maintenance,2022-08-24,"[{'date': '2023-03-26', 'details': 'Routine maintenance 3'}, {'date': '2022-11-11', 'details': 'Routine maintenance 5'}]"
+Server,Remote Site C,Operational,2023-07-25,"[{'date': '2023-12-26', 'details': 'Routine maintenance 1'}, {'date': '2023-09-27', 'details': 'Routine maintenance 10'}, {'date': '2024-05-15', 'details': 'Routine maintenance 7'}]"
+Router,Office Building B,Decommissioned,2021-04-21,"[{'date': '2021-11-21', 'details': 'Routine maintenance 1'}, {'date': '2021-05-27', 'details': 'Routine maintenance 1'}]"
+Laptop,Data Center A,Under Maintenance,2021-03-14,"[{'date': '2021-11-30', 'details': 'Routine maintenance 1'}]"
+Laptop,Remote Site C,Operational,2020-07-27,[]
+Router,Remote Site C,Under Maintenance,2023-08-23,"[{'date': '2023-10-20', 'details': 'Routine maintenance 6'}]"
+Laptop,Office Building B,Decommissioned,2024-02-28,"[{'date': '2024-06-06', 'details': 'Routine maintenance 8'}, {'date': '2024-08-08', 'details': 'Routine maintenance 4'}, {'date': '2024-10-06', 'details': 'Routine maintenance 7'}, {'date': '2025-02-25', 'details': 'Routine maintenance 9'}]"
+Switch,Remote Site C,Decommissioned,2022-03-01,"[{'date': '2022-11-09', 'details': 'Routine maintenance 6'}, {'date': '2023-01-16', 'details': 'Routine maintenance 4'}, {'date': '2022-10-23', 'details': 'Routine maintenance 9'}]"
+Router,Office Building B,Decommissioned,2019-09-27,"[{'date': '2020-06-17', 'details': 'Routine maintenance 4'}]"
+Router,Office Building B,Under Maintenance,2023-07-22,[]
+Router,Remote Site C,Decommissioned,2022-08-30,"[{'date': '2023-02-17', 'details': 'Routine maintenance 10'}, {'date': '2023-08-07', 'details': 'Routine maintenance 5'}]"
+Router,Office Building B,Operational,2020-10-04,"[{'date': '2021-05-24', 'details': 'Routine maintenance 2'}, {'date': '2021-04-10', 'details': 'Routine maintenance 10'}, {'date': '2021-08-10', 'details': 'Routine maintenance 6'}]"
+Laptop,Data Center A,Operational,2020-08-23,[]
+Switch,Office Building B,Under Maintenance,2022-01-11,"[{'date': '2022-06-23', 'details': 'Routine maintenance 3'}, {'date': '2022-08-09', 'details': 'Routine maintenance 7'}, {'date': '2022-05-20', 'details': 'Routine maintenance 5'}, {'date': '2022-09-07', 'details': 'Routine maintenance 1'}]"
+Server,Office Building B,Under Maintenance,2021-04-21,"[{'date': '2021-11-12', 'details': 'Routine maintenance 7'}]"
+Router,Office Building B,Decommissioned,2022-05-31,[]
+Server,Office Building B,Operational,2020-06-17,"[{'date': '2020-11-13', 'details': 'Routine maintenance 1'}, {'date': '2021-01-20', 'details': 'Routine maintenance 9'}, {'date': '2021-04-09', 'details': 'Routine maintenance 1'}, {'date': '2020-11-01', 'details': 'Routine maintenance 7'}, {'date': '2020-11-11', 'details': 'Routine maintenance 3'}]"
+Laptop,Data Center A,Under Maintenance,2024-02-10,"[{'date': '2024-08-11', 'details': 'Routine maintenance 5'}, {'date': '2024-07-18', 'details': 'Routine maintenance 6'}, {'date': '2024-07-01', 'details': 'Routine maintenance 5'}]"
+Router,Remote Site C,Operational,2021-07-12,"[{'date': '2022-01-19', 'details': 'Routine maintenance 7'}, {'date': '2022-04-25', 'details': 'Routine maintenance 6'}, {'date': '2022-03-05', 'details': 'Routine maintenance 2'}, {'date': '2021-12-13', 'details': 'Routine maintenance 2'}, {'date': '2022-02-24', 'details': 'Routine maintenance 5'}]"
+Switch,Office Building B,Operational,2020-02-22,"[{'date': '2020-08-13', 'details': 'Routine maintenance 8'}, {'date': '2020-03-26', 'details': 'Routine maintenance 8'}]"
+Router,Remote Site C,Decommissioned,2021-11-28,[]
+Server,Data Center A,Decommissioned,2020-08-16,"[{'date': '2021-04-28', 'details': 'Routine maintenance 3'}, {'date': '2021-03-11', 'details': 'Routine maintenance 7'}, {'date': '2020-12-16', 'details': 'Routine maintenance 3'}, {'date': '2021-02-22', 'details': 'Routine maintenance 10'}, {'date': '2020-10-11', 'details': 'Routine maintenance 9'}]"
+Laptop,Remote Site C,Under Maintenance,2022-09-01,[]
+Laptop,Data Center A,Under Maintenance,2020-11-04,[]
+Server,Remote Site C,Operational,2022-03-22,[]
+Server,Office Building B,Under Maintenance,2022-11-26,"[{'date': '2023-02-15', 'details': 'Routine maintenance 4'}]"
+Server,Remote Site C,Decommissioned,2022-07-18,"[{'date': '2023-04-28', 'details': 'Routine maintenance 3'}, {'date': '2023-03-04', 'details': 'Routine maintenance 6'}, {'date': '2023-06-30', 'details': 'Routine maintenance 3'}]"
+Switch,Remote Site C,Decommissioned,2020-06-22,"[{'date': '2020-09-22', 'details': 'Routine maintenance 1'}, {'date': '2020-09-02', 'details': 'Routine maintenance 7'}, {'date': '2020-10-26', 'details': 'Routine maintenance 5'}, {'date': '2020-09-15', 'details': 'Routine maintenance 5'}]"
+Laptop,Remote Site C,Decommissioned,2023-09-24,[]
+Switch,Data Center A,Operational,2020-12-23,"[{'date': '2021-03-16', 'details': 'Routine maintenance 7'}]"
+Server,Office Building B,Decommissioned,2022-12-02,"[{'date': '2023-05-27', 'details': 'Routine maintenance 1'}, {'date': '2023-01-04', 'details': 'Routine maintenance 4'}, {'date': '2023-10-30', 'details': 'Routine maintenance 9'}, {'date': '2023-11-01', 'details': 'Routine maintenance 6'}, {'date': '2023-04-05', 'details': 'Routine maintenance 9'}]"
+Server,Office Building B,Operational,2022-08-17,"[{'date': '2023-04-22', 'details': 'Routine maintenance 1'}]"
+Server,Office Building B,Under Maintenance,2021-11-10,"[{'date': '2022-05-01', 'details': 'Routine maintenance 10'}, {'date': '2022-06-17', 'details': 'Routine maintenance 7'}, {'date': '2022-06-25', 'details': 'Routine maintenance 9'}]"
+Router,Office Building B,Decommissioned,2024-04-17,"[{'date': '2024-05-23', 'details': 'Routine maintenance 7'}, {'date': '2024-11-14', 'details': 'Routine maintenance 6'}, {'date': '2024-09-14', 'details': 'Routine maintenance 1'}, {'date': '2024-06-02', 'details': 'Routine maintenance 7'}, {'date': '2024-06-08', 'details': 'Routine maintenance 1'}]"
+Laptop,Data Center A,Under Maintenance,2021-10-08,"[{'date': '2021-12-06', 'details': 'Routine maintenance 5'}, {'date': '2021-12-27', 'details': 'Routine maintenance 6'}, {'date': '2022-04-15', 'details': 'Routine maintenance 10'}, {'date': '2022-04-21', 'details': 'Routine maintenance 8'}, {'date': '2022-04-05', 'details': 'Routine maintenance 8'}]"
+Server,Data Center A,Operational,2023-03-11,"[{'date': '2023-07-05', 'details': 'Routine maintenance 2'}, {'date': '2024-01-19', 'details': 'Routine maintenance 1'}, {'date': '2023-07-01', 'details': 'Routine maintenance 3'}]"
+Router,Office Building B,Decommissioned,2022-12-17,"[{'date': '2023-01-19', 'details': 'Routine maintenance 9'}]"
+Server,Remote Site C,Under Maintenance,2024-02-16,"[{'date': '2025-01-27', 'details': 'Routine maintenance 9'}, {'date': '2024-04-11', 'details': 'Routine maintenance 4'}, {'date': '2024-08-23', 'details': 'Routine maintenance 4'}]"
+Router,Data Center A,Under Maintenance,2022-10-15,"[{'date': '2023-01-16', 'details': 'Routine maintenance 6'}, {'date': '2022-12-19', 'details': 'Routine maintenance 9'}, {'date': '2023-03-07', 'details': 'Routine maintenance 4'}]"
+Laptop,Data Center A,Operational,2023-09-30,"[{'date': '2024-07-28', 'details': 'Routine maintenance 5'}]"
+Server,Data Center A,Under Maintenance,2021-06-06,"[{'date': '2022-05-02', 'details': 'Routine maintenance 2'}, {'date': '2022-03-06', 'details': 'Routine maintenance 3'}, {'date': '2021-09-25', 'details': 'Routine maintenance 1'}, {'date': '2021-09-05', 'details': 'Routine maintenance 4'}]"
+Switch,Data Center A,Operational,2020-04-12,"[{'date': '2021-02-09', 'details': 'Routine maintenance 7'}, {'date': '2021-01-03', 'details': 'Routine maintenance 1'}, {'date': '2021-01-13', 'details': 'Routine maintenance 8'}, {'date': '2021-03-27', 'details': 'Routine maintenance 2'}, {'date': '2020-12-17', 'details': 'Routine maintenance 1'}]"
+Router,Data Center A,Operational,2024-05-19,"[{'date': '2025-04-16', 'details': 'Routine maintenance 3'}]"
+Laptop,Remote Site C,Decommissioned,2021-12-06,"[{'date': '2022-09-22', 'details': 'Routine maintenance 2'}, {'date': '2022-12-05', 'details': 'Routine maintenance 9'}]"
+Router,Remote Site C,Decommissioned,2023-05-27,"[{'date': '2023-08-01', 'details': 'Routine maintenance 8'}, {'date': '2023-07-12', 'details': 'Routine maintenance 4'}, {'date': '2024-05-09', 'details': 'Routine maintenance 1'}]"
